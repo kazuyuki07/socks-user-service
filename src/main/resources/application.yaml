@@ -1,9 +1,9 @@
 spring:
   application:
-    name: ProducerService
+    name: UserService
 
   datasource:
-    url: jdbc:postgresql://127.0.0.1:3432/producer_service
+    url: jdbc:postgresql://127.0.0.1:3432/user_service
     username: postgres
     password: root
     driver-class-name: org.postgresql.Driver

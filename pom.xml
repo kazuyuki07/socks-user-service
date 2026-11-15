@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>su.yuk1chan</groupId>
-    <artifactId>ProducerService</artifactId>
+    <artifactId>UserService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ProducerService</name>
-    <description>ProducerService</description>
+    <name>UserService</name>
+    <description>UserService</description>
     <url/>
     <licenses>
         <license/>
